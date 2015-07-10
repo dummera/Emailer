@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\emailfail\emailfail\bin\Debug\emailfail.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\emailfail\emailfail\bin\Debug\emailfail.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\emailfail\emailfail\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\emailfail\emailfail\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\emailfail\emailfail\obj\x86\Debug\emailfail.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\emailfail\emailfail\obj\x86\Debug\emailfail.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\emailfail\emailfail\obj\x86\Debug\emailfail.pdb
